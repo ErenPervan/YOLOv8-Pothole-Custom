@@ -180,4 +180,4 @@ __all__ = (
     "YOLOESegment",
     "v10Detect",
 )
-from .custom import SimAM, DSConv, C2f_SimAM
+from .custom import C2f_SimAM, DSConv, SimAM
